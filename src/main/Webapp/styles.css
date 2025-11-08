@@ -1,0 +1,9 @@
+body { font-family: Arial, Helvetica, sans-serif; background:#f8f9fb; color:#222; }
+.container { width: 900px; margin: 30px auto; background:white; padding:20px; box-shadow:0 2px 8px rgba(0,0,0,0.08); border-radius:8px; }
+h1, h2 { margin:0 0 12px 0; }
+.menu { width:100%; border-collapse: collapse; }
+.menu th, .menu td { padding:8px 10px; border-bottom:1px solid #eee; text-align:left; }
+.menu thead { background:#fafafa; }
+.btn { background:#007bff; color:white; padding:8px 12px; text-decoration:none; border:none; border-radius:6px; cursor:pointer; }
+.btn.alt { background:#6c757d; margin-left:8px; text-decoration:none; display:inline-block; }
+.receipt .totals { margin-top:8px; padding:8px 0; }
